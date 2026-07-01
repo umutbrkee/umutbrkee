@@ -1,10 +1,10 @@
 ### Hi, I'm Umut Berke Pezük 👋
 
-iOS  Developer
+Software Developer/Data Engineer
 
 
-- 🌱 I’m currently learning Swift 
-- 💻 I’m interested in mobile development
+- 🌱 I’m a software developer currently working as Data Engineer at Telco industry
+- 💻 I’m interested in ETL/DWH development and related software development based solutions
 - 📫 How to reach me: umutberkepezuk@gmail.com
 
 
